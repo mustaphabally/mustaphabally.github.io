@@ -1,4 +1,4 @@
-# mustaphabally.github.io
+# Learnyourintelligencetype.github.io
 <!-- intelligence-quiz/index.html -->
 <!DOCTYPE html>
 <html lang="en">
